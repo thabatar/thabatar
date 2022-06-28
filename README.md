@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thábata</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center">Hello, I'm Thábata 👋</h1>
+<h3 align="center">Full stack dev</h3>
 
 
 <!---
