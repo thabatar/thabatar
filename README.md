@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Thábata 👋</h1>
-<h3 align="center">Full Stack Dev 👩‍💻</h3>
+<h3 align="center">Software Developer 👩‍💻</h3>
 <p align="center">Thank you for taking the time to view my GitHub Profile :)</p>
  
 
